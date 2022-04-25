@@ -1,6 +1,6 @@
 //  CITS2002 Project 1 2021
-//  Name(s):             Reiden Rufin, Nathan Eden
-//  Student number(s):   22986337, 22960674
+//  Name(s):             Hidden for Privacy.
+//  Student number(s):   
 
 //  compile with:  cc -std=c11 -Wall -Werror -o runcool runcool.c
 
